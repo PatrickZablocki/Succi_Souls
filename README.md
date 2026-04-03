@@ -1,28 +1,32 @@
 # Succi_Souls
 Das ist die Offiziele Dark Souls liste aller Posse &amp; Progress 
 
-# Dark Souls 1 – Boss Fortschritt
+<h2>Dark Souls 1</h2>
+<progress value="0" max="22"></progress> 0 / 22
 
-## Hauptspiel
 - [ ] Asyl-Dämon
 - [ ] Taurus-Dämon
 - [ ] Glockengargoyles
 - [ ] Capra-Dämon
 - [ ] Klaffdrache
 - [ ] Chaoshexe Quelaag
-- [ ] Eisengolem
-- [ ] Ornstein & Smough
 - [ ] Mondlicht-Schmetterling
-- [ ] Großer grauer Wolf Sif
+- [ ] Sif, der große graue Wolf
+- [ ] Eisen-Golem
+- [ ] Ornstein & Smough
 - [ ] Streudämon
-- [ ] Pinwheel (Nito-Diener)
+- [ ] Kreuzblütige Priscilla
+- [ ] Finstermond-Gwyndolin
+- [ ] Pinwheel
 - [ ] Gravelord Nito
 - [ ] Seath der Schuppenlose
-- [ ] Vier Könige
+- [ ] Die Vier Könige
 - [ ] Bett des Chaos
-- [ ] Kreuzblütige Priscilla
-- [ ] Finsterer Sonnen-Gwyndolin
 - [ ] Gwyn, Fürst der Asche
+- [ ] Wächter des Heiligtums
+- [ ] Ritter Artorias
+- [ ] Schwarzer Drache Kalameet
+- [ ] Manus, Vater des Abgrunds
 
 ## DLC (Artorias des Abgrunds)
 - [ ] Wächter des Heiligtums
